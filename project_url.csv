@@ -180,37 +180,6 @@ webserv,81877
 woody-woodpacker,79590
 xv,60856
 zappy,66459
-Apprentissage 1 an -  Contract Upload,15527
-Apprentissage 1 an -  Apprentissage 1 an - 1,28473
-Apprentissage 1 an -  Apprentissage 1 an - 2,35219
-Apprentissage 1 an -  Apprentissage 1 an - 3,31729
-Apprentissage 1 an -  Apprentissage 1 an - 4,32030
-Apprentissage 1 an -  Apprentissage 1 an - Begin evaluation,37029
-Apprentissage 1 an -  Apprentissage 1 an - Final evaluation,15531
-Apprentissage 2 ans - 1ère année -  Contract Upload,15124
-Apprentissage 2 ans - 1ère année -  Apprentissage 2 ans - 1ère année - 1,29059
-Apprentissage 2 ans - 1ère année -  Apprentissage 2 ans - 1ère année - 2,23602
-Apprentissage 2 ans - 1ère année -  Apprentissage 2 ans - 1ère année - 3,32805
-Apprentissage 2 ans - 1ère année -  Apprentissage 2 ans - 1ère année - 4,27655
-Apprentissage 2 ans - 1ère année -  Apprentissage 2 ans - 1ère année - Begin evaluation,37031
-Apprentissage 2 ans - 1ère année -  Apprentissage 2 ans - 1ère année - Annual Evaluation,37033
-Apprentissage 2 ans - 2ème année -  Contract Upload,15511
-Apprentissage 2 ans - 2ème année -  Apprentissage 2 ans - 2ème année - 1,19446
-Apprentissage 2 ans - 2ème année -  Apprentissage 2 ans - 2ème année - 2,33293
-Apprentissage 2 ans - 2ème année -  Apprentissage 2 ans - 2ème année - 3,19450
-Apprentissage 2 ans - 2ème année -  Apprentissage 2 ans - 2ème année - 4,33044
-Apprentissage 2 ans - 2ème année -  Apprentissage 2 ans - 2ème année - Mid evaluation,37037
-Apprentissage 2 ans - 2ème année -  Apprentissage 2 ans - 2ème année - Final evaluation,15515
-[DEPRECATED] Piscine Swift iOS -  Day 00,23849
-[DEPRECATED] Piscine Swift iOS -  Day 01,23851
-[DEPRECATED] Piscine Swift iOS -  Day 02,23853
-[DEPRECATED] Piscine Swift iOS -  Day 03,23865
-[DEPRECATED] Piscine Swift iOS -  Day 04,23855
-[DEPRECATED] Piscine Swift iOS -  Day 05,23859
-[DEPRECATED] Piscine Swift iOS -  Day 06,23857
-[DEPRECATED] Piscine Swift iOS -  Day 07,23863
-[DEPRECATED] Piscine Swift iOS -  Day 08,23861
-[DEPRECATED] Piscine Swift iOS -  Day 09,23867
 Django - 0 - Initiation,59657
 Django - 0 - Oob,64989
 Django - 0 - Starting,59659
@@ -220,25 +189,6 @@ Django - 2 - SQL,59667
 Django - 3 - Advanced,68609
 Django - 3 - Final,64997
 Django - 3 - Sessions,64995
-Internship I -  internship I - Contract Upload,45180
-Internship I -  Internship I - Duration,30775
-Internship I -  internship I - Company Mid Evaluation,83085
-Internship I -  internship I - Company Final Evaluation,83088
-Internship I -  Internship I - Peer Video,28382
-Internship II -  Internship II - Duration,33959
-Internship II -  Internship II - Company Mid Evaluation,83093
-Internship II -  Internship II - Company Final Evaluation,83091
-Internship II -  Internship II - Peer Video,33963
-Open Project -  Open Project - Define your Subject,82242
-Open Project -  Open Project - Complete the project,82244
-Part_Time I -  Part_Time I - Contract Upload,71485
-Part_Time I -  Part_Time I - Duration,34192
-Part_Time I -  Part_Time I Company Mid Evaluation,11966
-Part_Time I -  Part_Time I Company Final Evaluation,11958
-Part_Time II -  Part_Time II - Duration,34048
-Part_Time II -  Part_Time II - Company Mid Evaluation,11964
-Part_Time II -  Part_Time II - Company Final Evaluation,11956
-Piscine Java - Piscine Java,22226
 RoR - 0 - Initiation,59695
 RoR - 0 - Oob,59699
 RoR - 0 - Starting,65497
@@ -248,19 +198,6 @@ RoR - 2 - SQL,59705
 RoR - 3 - Advanced,62658
 RoR - 3 - Final,59711
 RoR - 3 - Sessions,59707
-Rushes -  Hotrace,66673
-Rushes -  AlCu,65613
-Rushes -  Wong kar Wai,65618
-Rushes -  yasl,65619
-Rushes -  wordle,65621
-Rushes -  Connect4,52025
-Rushes -  Retro-MFA,56421
-Rushes -  ft_shmup,58705
-Startup Internship -  Startup Internship - Contract Upload,30740
-Startup Internship -  Startup Internship - Duration,30741
-Startup Internship -  Startup Internship - Tutor Mid Evaluation,30742
-Startup Internship -  Startup Internship - Tutor Final Evaluation,30745
-Startup Internship -  Startup Internship - Peer Video,30748
 Symfony - 0 - Initiation,66661
 Symfony - 0 - Oob,66667
 Symfony - 0 - Starting,65673
@@ -291,3 +228,50 @@ Part_Time II: Part_Time II - Company Mid Evaluation,11964
 Part_Time II: Part_Time II - Company Final Evaluation,11956
 Part_Time II: Part_Time II - Peer Video,8091
 [Event]April_2023,81425
+Apprentissage 1 an: Contract Upload,15527
+Apprentissage 1 an: Apprentissage 1 an - 1,28473
+Apprentissage 1 an: Apprentissage 1 an - 2,35219
+Apprentissage 1 an: Apprentissage 1 an - 3,31729
+Apprentissage 1 an: Apprentissage 1 an - 4,32030
+Apprentissage 1 an: Apprentissage 1 an - Begin evaluation,37029
+Apprentissage 1 an: Apprentissage 1 an - Final evaluation,15531
+Apprentissage 2 ans - 1ère année: Contract Upload,15124
+Apprentissage 2 ans - 1ère année: Apprentissage 2 ans - 1ère année - 1,29059
+Apprentissage 2 ans - 1ère année: Apprentissage 2 ans - 1ère année - 2,23602
+Apprentissage 2 ans - 1ère année: Apprentissage 2 ans - 1ère année - 3,32805
+Apprentissage 2 ans - 1ère année: Apprentissage 2 ans - 1ère année - 4,27655
+Apprentissage 2 ans - 1ère année: Apprentissage 2 ans - 1ère année - Begin evaluation,37031
+Apprentissage 2 ans - 1ère année: Apprentissage 2 ans - 1ère année - Annual Evaluation,37033
+Apprentissage 2 ans - 2ème année: Contract Upload,15511
+Apprentissage 2 ans - 2ème année: Apprentissage 2 ans - 2ème année - 1,19446
+Apprentissage 2 ans - 2ème année: Apprentissage 2 ans - 2ème année - 2,33293
+Apprentissage 2 ans - 2ème année: Apprentissage 2 ans - 2ème année - 3,19450
+Apprentissage 2 ans - 2ème année: Apprentissage 2 ans - 2ème année - 4,33044
+Apprentissage 2 ans - 2ème année: Apprentissage 2 ans - 2ème année - Mid evaluation,37037
+Apprentissage 2 ans - 2ème année: Apprentissage 2 ans - 2ème année - Final evaluation,15515
+[DEPRECATED] Piscine Swift iOS: Day 00,23849
+[DEPRECATED] Piscine Swift iOS: Day 01,23851
+[DEPRECATED] Piscine Swift iOS: Day 02,23853
+[DEPRECATED] Piscine Swift iOS: Day 03,23865
+[DEPRECATED] Piscine Swift iOS: Day 04,23855
+[DEPRECATED] Piscine Swift iOS: Day 05,23859
+[DEPRECATED] Piscine Swift iOS: Day 06,23857
+[DEPRECATED] Piscine Swift iOS: Day 07,23863
+[DEPRECATED] Piscine Swift iOS: Day 08,23861
+[DEPRECATED] Piscine Swift iOS: Day 09,23867
+Open Project: Open Project - Define your Subject,82242
+Open Project: Open Project - Complete the project,82244
+Piscine Java:Piscine Java,22226
+Rushes: Hotrace,66673
+Rushes: AlCu,65613
+Rushes: Wong kar Wai,65618
+Rushes: yasl,65619
+Rushes: wordle,65621
+Rushes: Connect4,52025
+Rushes: Retro-MFA,56421
+Rushes: ft_shmup,58705
+Startup Internship: Startup Internship - Contract Upload,30740
+Startup Internship: Startup Internship - Duration,30741
+Startup Internship: Startup Internship - Tutor Mid Evaluation,30742
+Startup Internship: Startup Internship - Tutor Final Evaluation,30745
+Startup Internship: Startup Internship - Peer Video,30748
