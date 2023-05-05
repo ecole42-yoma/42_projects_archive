@@ -63,7 +63,7 @@ freddie-mercury,55961
 ft_ality,60883
 ft_containers,68022
 ft_hangouts,60916
-ft_irc,80968
+ft_irc,83370
 ft_kalman,60863
 ft_linear_regression,75301
 ft_linux,75347
@@ -173,10 +173,10 @@ swifty-companion,66599
 swifty-proteins,60915
 swingy,60879
 taskmaster,60882
-total-perspective-vortex,60845
+total-perspective-vortex,83234
 userspace_digressions,60912
 war,60803
-webserv,81877
+webserv,83371
 woody-woodpacker,79590
 xv,60856
 zappy,66459
@@ -275,3 +275,24 @@ Startup Internship: Startup Internship - Duration,30741
 Startup Internship: Startup Internship - Tutor Mid Evaluation,30742
 Startup Internship: Startup Internship - Tutor Final Evaluation,30745
 Startup Internship: Startup Internship - Peer Video,30748
+Mobile,83243
+Mobile - 0 - Basic of the mobile application,82814
+Mobile - 1 - Structure and logic,83054
+Mobile - 2 - API and data,83055
+Mobile - 3 - Design,83056
+Mobile - 4 - Auth and dataBase,83057
+Mobile - 5 - Manage data and display,83058
+Python - 0 - Starting,82031
+Python - 1 - Array,82032
+Python - 2 - DataTable,82033
+Python - 3 - OOP,82034
+Python - 4 - Dod,82035
+Python for Data Science,70141
+Unity,83343
+Unity - 0 - The basics Unity tools,82805
+Unity - 1 - 3D physics, Tags, Layers and Scene,82806
+Unity - 2 - 2D environment, tiles and sprites,82807
+Unity - 3 - Advanced inputs and 2D GUI,82809
+Unity - 4 - Animations and Sound,82810
+Unity - 5 - Singleton, playerPrefs and coroutines,82811
+Unity - 6 - Navmesh, light, sound and camera,82813
